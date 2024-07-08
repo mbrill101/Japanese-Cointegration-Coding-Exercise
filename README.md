@@ -1,0 +1,1 @@
+The STATA file and do file represents a simple exercise for testing cointegration using STATA. The varibles are Japan's GDP, Unemplyment rate, and Yen - USD exchagne rate. The tests perfromed are an ARDL - EC regression and a VECM regression
